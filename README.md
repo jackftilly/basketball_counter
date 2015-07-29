@@ -1,1 +1,1 @@
-# basketball_counter
+This is a simple way to keep score in a pickup basketball game. All you need is somebody on the sideline pressing keys on a laptop and you got your own personal shot statistics. Developed in visual studio 2012, so I don't know how it would work on other compilers. Hope somebody enjoys this fun simple yet effective tool!
