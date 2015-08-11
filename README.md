@@ -11,5 +11,7 @@ DIRECTIONS:
   (8)The program is here to count each key as they are pressed, so the user just needs to press the keys as the game goes on.
   (9)You will be asked to input the names of every player, which makes it easier when the stats.txt is filled.
   (10)After the game, go into the stats.txt file and check the numbers. There will be detailed accurate statistics of each player's scoring, and the team scoring.
+  (11)For example: If team 1 player 4 missed a 3 pointer, the scorekeeper would press the "R" key. This is because Team 1 Player 4 is the 4 column, and the "missed 3" row is Q-P, so they cross at "R". If Team 2 Pkayer 3 made a 2 pointer, the scorekeeper would press the "K", because Team 2 corresponds to columns 6-0 on a standard keyboard, and the made 2 pointer row is A-;. 
+  (12)When the game is over simply press the "=" (Equals) key.
 If you have any questions:
-  
+  Twitter: @jackfintan;
